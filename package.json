@@ -1,0 +1,24 @@
+{
+  "name": "typescript-git",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build":"tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gnaneswari-Vialto/TypeScript-GIT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gnaneswari-Vialto/TypeScript-GIT/issues"
+  },
+  "homepage": "https://github.com/Gnaneswari-Vialto/TypeScript-GIT#readme",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
