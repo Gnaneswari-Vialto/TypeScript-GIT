@@ -19,6 +19,7 @@ class DuplicateNumber {
         return result;
     }
 }
+// Example usage:
 const inputString = "abbab";
 const obj = new DuplicateNumber();
 const outcome = obj.remove(inputString);
